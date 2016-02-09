@@ -2,6 +2,7 @@
 
 A curated list of awesome laser-cutting resources.
 
+
 ## Laser Cutter Brands
 
 - [Alpha Laser](http://alphalaser.de) - Laser devices as a complete solution for applications in materials processing like welding and cutting.
@@ -26,6 +27,11 @@ A curated list of awesome laser-cutting resources.
 
 - [LaserWeb](https://github.com/openhardwarecoza/LaserWeb) - Node.js based host software for laster-cutters.
 
+
+## Apps
+
+- [123D Make](http://www.123dapp.com/make) - Turn 3D models into 2D build plans with animated assembly instructions.
+- [FlatFab](http://flatfab.com) - Design and fabricate 3D objects.
 
 ## On Deman Laser Cutting
 
