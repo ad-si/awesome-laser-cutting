@@ -6,6 +6,7 @@ A curated list of awesome laser-cutting resources.
 ## Laser Cutter Brands
 
 - [Alpha Laser](http://alphalaser.de) - Laser devices as a complete solution for applications in materials processing like welding and cutting.
+- [Bystronic](http://bystronic.de/de/produkte/laserschneidsysteme) - Professional laser cutters.
 - [BRM Lasers](http://brmlasers.eu) - Engrave and cut many types of materials.
 - [Darkly Labs](https://darklylabs.com) - Affordable entry-level laser cutter for the everyday hobbyist and artist.
 - [Epilog Laser](https://epiloglaser.com) - Laser Engraving, Cutting and Marking Systems.
@@ -17,10 +18,13 @@ A curated list of awesome laser-cutting resources.
 - [Littlebox](http://thelittlebox.co) - MicroSlice mini laser cutter and engraver.
 - [Littlegeektoys](http://littlegeektoys.com)
 - [Toolbotics](http://toolbotics.com) - Robotic Tools for artists and makers.
+- [Trotec Laser](http://troteclaser.com) - Laser machines for cutting, engraving, etching & marking.
 - [Makerarm](http://makerarm.com) - Personal fabrication system packed into a single robotic arm.
 - [Mr Beam](https://mr-beam.org) - DIY, open source, 3D printed, portable laser cutter and engraver kit.
+- [Primapower](http://primapower.com) - logo Laser and sheet metal machinery.
 - [Stepcraft](https://stepcraft.us) - Universal desktop CNC solution.
 - [Universal Laser Systems](http://ulsinc.com) - Laser material processing solutions consisting of lasers, laser systems, capability-enhancing accessories, software interfaces and a material processing database.
+- [Xenetech](http://xenetech.com) - Professional engraving systems.
 
 
 ## Software
