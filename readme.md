@@ -5,42 +5,69 @@ A curated list of awesome laser-cutting resources.
 
 ## Laser Cutter Brands
 
-- [Alpha Laser](http://alphalaser.de) - Laser devices as a complete solution for applications in materials processing like welding and cutting.
-- [Bystronic](http://bystronic.de/de/produkte/laserschneidsysteme) - Professional laser cutters.
-- [BRM Lasers](http://brmlasers.eu) - Engrave and cut many types of materials.
-- [Darkly Labs](https://darklylabs.com) - Affordable entry-level laser cutter for the everyday hobbyist and artist.
-- [Epilog Laser](https://epiloglaser.com) - Laser Engraving, Cutting and Marking Systems.
-- [Full Spectrum Laster](http://fslaser.com)
-- [GCC World](http://gccworld.com) - Cutting plotters, laser engravers, laser markers, laser cutters, UV-curable inkjet printers, Printer/Cutter and scrapbook cutters.
-- [Glowforge](https://glowforge.com) - Desktop laser cutters.
-- [Laseraxe Customize](http://laseraxe-customize.com) - Affordable laser cutter suite.
-- [Lasersaur](http://lasersaur.com) - Open source laser cutter.
-- [Littlebox](http://thelittlebox.co) - MicroSlice mini laser cutter and engraver.
-- [Littlegeektoys](http://littlegeektoys.com)
-- [Toolbotics](http://toolbotics.com) - Robotic Tools for artists and makers.
-- [Trotec Laser](http://troteclaser.com) - Laser machines for cutting, engraving, etching & marking.
-- [Makerarm](http://makerarm.com) - Personal fabrication system packed into a single robotic arm.
-- [Mr Beam](https://mr-beam.org) - DIY, open source, 3D printed, portable laser cutter and engraver kit.
-- [Primapower](http://primapower.com) - logo Laser and sheet metal machinery.
-- [Stepcraft](https://stepcraft.us) - Universal desktop CNC solution.
-- [Universal Laser Systems](http://ulsinc.com) - Laser material processing solutions consisting of lasers, laser systems, capability-enhancing accessories, software interfaces and a material processing database.
-- [Xenetech](http://xenetech.com) - Professional engraving systems.
+- [Alpha Laser] - Laser devices as a complete solution for applications in materials processing like welding and cutting.
+- [BRM Lasers] - Engrave and cut many types of materials.
+- [Bystronic] - Professional laser cutters.
+- [Darkly Labs] - Affordable entry-level laser cutter for the everyday hobbyist and artist.
+- [Epilog Laser] - Laser Engraving, Cutting and Marking Systems.
+- [Full Spectrum Laster]
+- [GCC World] - Cutting plotters, laser engravers, laser markers, laser cutters, UV-curable inkjet printers, Printer/Cutter and scrapbook cutters.
+- [Glowforge] - Desktop laser cutters.
+- [Laseraxe Customize] - Affordable laser cutter suite.
+- [Lasersaur] - Open source laser cutter.
+- [Littlebox] - MicroSlice mini laser cutter and engraver.
+- [Littlegeektoys]
+- [Makerarm] - Personal fabrication system packed into a single robotic arm.
+- [Mr Beam] - DIY, open source, 3D printed, portable laser cutter and engraver kit.
+- [Primapower] - logo Laser and sheet metal machinery.
+- [Stepcraft] - Universal desktop CNC solution.
+- [Toolbotics] - Robotic Tools for artists and makers.
+- [Trotec Laser] - Laser machines for cutting, engraving, etching & marking.
+- [Universal Laser Systems] - Laser material processing solutions consisting of lasers, laser systems, capability-enhancing accessories, software interfaces and a material processing database.
+- [Xenetech] - Professional engraving systems.
+
+[Alpha Laser]: http://alphalaser.de
+[BRM Lasers]: http://brmlasers.eu
+[Bystronic]: http://bystronic.de/de/produkte/laserschneidsysteme
+[Darkly Labs]: https://darklylabs.com
+[Epilog Laser]: https://epiloglaser.com
+[Full Spectrum Laster]: http://fslaser.com)
+[GCC World]: http://gccworld.com
+[Glowforge]: https://glowforge.com
+[Laseraxe Customize]: http://laseraxe-customize.com
+[Lasersaur]: http://lasersaur.com
+[Littlebox]: http://thelittlebox.co
+[Littlegeektoys]: http://littlegeektoys.com)
+[Makerarm]: http://makerarm.com
+[Mr Beam]: https://mr-beam.org
+[Primapower]: http://primapower.com
+[Stepcraft]: https://stepcraft.us
+[Toolbotics]: http://toolbotics.com
+[Trotec Laser]: http://troteclaser.com
+[Universal Laser Systems]: http://ulsinc.com
+[Xenetech]: http://xenetech.com
 
 
 ## Software
 
-- [LaserWeb](https://github.com/openhardwarecoza/LaserWeb) - Node.js based host software for laster-cutters.
+- [LaserWeb] - Node.js based host software for laster-cutters.
+
+[LaserWeb]: https://github.com/openhardwarecoza/LaserWeb
 
 
 ## Apps
 
-- [123D Make](http://www.123dapp.com/make) - Turn 3D models into 2D build plans with animated assembly instructions.
-- [FlatFab](http://flatfab.com) - Design and fabricate 3D objects.
+- [123D Make] - Turn 3D models into 2D build plans with animated assembly instructions.
+- [FlatFab] - Design and fabricate 3D objects.
 - [Zotebook] - Recognizes rough sketches and turns them into precise drawings.
 
+[123D Make]: http://123dapp.com/make
+[FlatFab]: http://flatfab.com
 [Zotebook]: https://zotebook.io
 
 
 ## On Demand Laser Cutting
 
-- [Ponoko](https://ponoko.com) - Laser cutting, 3D printing and metal machining services to turn designs into custom products.
+- [Ponoko] - Laser cutting, 3D printing and metal machining services to turn designs into custom products.
+
+[Ponoko]: https://ponoko.com
