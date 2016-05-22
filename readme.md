@@ -57,8 +57,10 @@ A curated list of awesome laser-cutting resources.
 ## Software
 
 - [LaserWeb] - Node.js based host software for laster-cutters.
+- [Papercraft] - Unfolding STL models to make laser cut patterns.
 
 [LaserWeb]: https://github.com/openhardwarecoza/LaserWeb
+[Papercraft]: https://github.com/osresearch/papercraft
 
 
 ## Apps
