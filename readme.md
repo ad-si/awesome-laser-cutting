@@ -36,7 +36,11 @@ A curated list of awesome laser-cutting resources.
 
 - [123D Make](http://www.123dapp.com/make) - Turn 3D models into 2D build plans with animated assembly instructions.
 - [FlatFab](http://flatfab.com) - Design and fabricate 3D objects.
+- [Zotebook] - Recognizes rough sketches and turns them into precise drawings.
 
-## On Deman Laser Cutting
+[Zotebook]: https://zotebook.io
+
+
+## On Demand Laser Cutting
 
 - [Ponoko](https://ponoko.com) - Laser cutting, 3D printing and metal machining services to turn designs into custom products.
