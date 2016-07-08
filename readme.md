@@ -78,5 +78,7 @@ A curated list of awesome laser-cutting resources.
 ## On Demand Laser Cutting
 
 - [Ponoko] - Laser cutting, 3D printing and metal machining services to turn designs into custom products.
+- [Lasergist] - Laser-cut designs in pure stainlesss steel.
 
 [Ponoko]: https://ponoko.com
+[Lasergist]: http://lasergist.com
