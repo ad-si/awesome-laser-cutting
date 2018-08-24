@@ -77,8 +77,17 @@ A curated list of awesome laser-cutting resources.
 
 ## On Demand Laser Cutting
 
-- [Ponoko] - Laser cutting, 3D printing and metal machining services to turn designs into custom products.
-- [Lasergist] - Laser-cut designs in pure stainlesss steel.
+- [Formulor] - Laser cutting and engraving for prototypes and custom products.
+    (Germany, Baden-Baden)
+- [Lasergist] - Laser-cut designs in pure stainless steel. (Europe)
+- [Laserlove] - Online laser cutting service. (Germany, Berlin)
+- [Ponoko] - Laser cutting, 3D printing and metal machining services
+    to turn designs into custom products. (USA, California)
+- [Snijlab] - Online lasercutting and digital fabrication.
+    (Netherlands, Rotterdam)
 
-[Ponoko]: https://ponoko.com
+[Formulor]: https://www.formulor.de
 [Lasergist]: http://lasergist.com
+[Laserlove]: https://laserlove.com
+[Ponoko]: https://ponoko.com
+[Snijlab]: https://snijlab.nl
