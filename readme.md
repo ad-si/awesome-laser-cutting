@@ -57,20 +57,22 @@ A curated list of awesome laser-cutting resources.
 ## Software
 
 - [LaserWeb] - Node.js based host software for laster-cutters.
+- [Makercase] - Webapp for designing boxes and project cases
+    for laser cutters and CNC routers.
 - [Papercraft] - Unfolding STL models to make laser cut patterns.
+- [Solvespace] - Free parametric 3D CAD tool.
 
 [LaserWeb]: https://github.com/openhardwarecoza/LaserWeb
+[Makercase]: https://www.makercase.com
 [Papercraft]: https://github.com/osresearch/papercraft
+[Solvespace]: http://solvespace.com
 
 
 ## Apps
 
-- [123D Make] - Turn 3D models into 2D build plans
-    with animated assembly instructions.
 - [FlatFab] - Design and fabricate 3D objects.
 - [Zotebook] - Recognizes rough sketches and turns them into precise drawings.
 
-[123D Make]: http://123dapp.com/make
 [FlatFab]: http://flatfab.com
 [Zotebook]: https://zotebook.io
 
@@ -91,3 +93,11 @@ A curated list of awesome laser-cutting resources.
 [Laserlove]: https://laserlove.com
 [Ponoko]: https://ponoko.com
 [Snijlab]: https://snijlab.nl
+
+
+## Artists
+
+[Steven Mattern] - Designer of objects that engage the idea of play
+    using materials like plywood, paper, concrete, and magnets.
+
+[Steven Mattern]: http://stevenmattern.com
