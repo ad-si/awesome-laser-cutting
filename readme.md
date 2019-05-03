@@ -56,12 +56,15 @@ A curated list of awesome laser-cutting resources.
 
 ## Software
 
+- [Lasercut.scad] - Module for OpenSCAD
+    to create 3D models from 2d lasercut parts.
 - [LaserWeb] - Node.js based host software for laster-cutters.
 - [Makercase] - Webapp for designing boxes and project cases
     for laser cutters and CNC routers.
 - [Papercraft] - Unfolding STL models to make laser cut patterns.
 - [Solvespace] - Free parametric 3D CAD tool.
 
+[Lasercut.scad]: https://github.com/bmsleight/lasercut
 [LaserWeb]: https://github.com/openhardwarecoza/LaserWeb
 [Makercase]: https://www.makercase.com
 [Papercraft]: https://github.com/osresearch/papercraft
