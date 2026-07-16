@@ -75,11 +75,15 @@ A curated list of awesome laser-cutting resources.
 ## Apps
 
 - [FlatFab] - Design and fabricate 3D objects.
+- [GearForge] - Browser app for standards-correct involute gears,
+    timing-belt pulleys and ISO 4156 splines, exported as laser-ready,
+    kerf-compensated SVG and DXF.
 - [Makercase] - Webapp for designing boxes and project cases
     for laser cutters and CNC routers.
 - [NC Viewer] - Browser based G-Code viewer and editor.
 
 [FlatFab]: http://flatfab.com
+[GearForge]: https://1400130-collab.github.io/gearforge/
 [Makercase]: https://www.makercase.com
 [NC Viewer]: https://ncviewer.com/
 
