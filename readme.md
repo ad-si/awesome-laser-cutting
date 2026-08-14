@@ -78,10 +78,12 @@ A curated list of awesome laser-cutting resources.
 - [Makercase] - Webapp for designing boxes and project cases
     for laser cutters and CNC routers.
 - [NC Viewer] - Browser based G-Code viewer and editor.
+- [Vector Boy] - Trace photos and drawings to DXF and SVG in the browser.
 
 [FlatFab]: http://flatfab.com
 [Makercase]: https://www.makercase.com
 [NC Viewer]: https://ncviewer.com/
+[Vector Boy]: https://www.vector-boy.com/
 
 
 ## On Demand Laser Cutting
