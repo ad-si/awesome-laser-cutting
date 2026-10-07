@@ -78,6 +78,8 @@ A curated list of awesome laser-cutting resources.
 - [Makercase] - Webapp for designing boxes and project cases
     for laser cutters and CNC routers.
 - [NC Viewer] - Browser based G-Code viewer and editor.
+- [RasterGo] - Turn a photo into a sized PNG for laser engraving and slate work. Processing runs in the browser, no upload.
+[RasterGo]: https://rastergo.com
 
 [FlatFab]: http://flatfab.com
 [Makercase]: https://www.makercase.com
