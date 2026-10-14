@@ -65,11 +65,15 @@ A curated list of awesome laser-cutting resources.
 - [LaserWeb] - Node.js based host software for laster-cutters.
 - [Papercraft] - Unfolding STL models to make laser cut patterns.
 - [Solvespace] - Free parametric 3D CAD tool.
+- [VectorForge Daily] - Generates layered shadow-box SVG cut files
+    (one vector file per physical layer plus a combined design) from a
+    scheduled pipeline, published as a free public catalog.
 
 [Lasercut.scad]: https://github.com/bmsleight/lasercut
 [LaserWeb]: https://github.com/LaserWeb/LaserWeb4
 [Papercraft]: https://github.com/osresearch/papercraft
 [Solvespace]: https://solvespace.com/index.pl
+[VectorForge Daily]: https://github.com/airdropia/auto-earn-engine
 
 
 ## Apps
