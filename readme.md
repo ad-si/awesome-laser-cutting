@@ -67,6 +67,7 @@ A curated list of awesome laser-cutting resources.
 - [Papercraft] - Unfolding STL models to make laser cut patterns.
 - [Solvespace] - Free parametric 3D CAD tool.
 
+[Kenzap Nesting]: https://kenzap.com/nesting/
 [Lasercut.scad]: https://github.com/bmsleight/lasercut
 [LaserWeb]: https://github.com/LaserWeb/LaserWeb4
 [Papercraft]: https://github.com/osresearch/papercraft
