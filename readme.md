@@ -76,11 +76,14 @@ A curated list of awesome laser-cutting resources.
 
 ## Apps
 
+- [DXF Converter (3D Studio)] - Browser-based DXF viewer that converts DXF to SVG
+    in mm for laser cutting, or to PDF. Free, files are not uploaded.
 - [FlatFab] - Design and fabricate 3D objects.
 - [Makercase] - Webapp for designing boxes and project cases
     for laser cutters and CNC routers.
 - [NC Viewer] - Browser based G-Code viewer and editor.
 
+[DXF Converter (3D Studio)]: https://3dstudio.co/tools/dxf-converter/
 [FlatFab]: http://flatfab.com
 [Makercase]: https://www.makercase.com
 [NC Viewer]: https://ncviewer.com/
