@@ -76,11 +76,15 @@ A curated list of awesome laser-cutting resources.
 
 ## Apps
 
+- [BoxGen] - Webapp that sizes a finger-jointed box from its internal
+    dimensions and exports 1:1 SVG/DXF panels for laser cutting or a
+    watertight STL for 3D printing.
 - [FlatFab] - Design and fabricate 3D objects.
 - [Makercase] - Webapp for designing boxes and project cases
     for laser cutters and CNC routers.
 - [NC Viewer] - Browser based G-Code viewer and editor.
 
+[BoxGen]: https://boxgen.app
 [FlatFab]: http://flatfab.com
 [Makercase]: https://www.makercase.com
 [NC Viewer]: https://ncviewer.com/
